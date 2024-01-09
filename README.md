@@ -1,7 +1,5 @@
 # Muhamad Farhan's GitHub Repository
 
-![Profile Picture](https://mrglxor.netlify.app/images/about.png)
-
 ## Introduction
 
 Hello, I'm Muhamad Farhan, a current student at STMIK Mardira Indonesia. This GitHub repository serves as a platform for collecting and showcasing my personal projects. Currently, my primary focus is on web development, with a specialization in backend technologies. While I have a strong foundation in procedural programming languages, I am still in the process of exploring and enhancing my skills in object-oriented programming (OOP) and functional programming.
